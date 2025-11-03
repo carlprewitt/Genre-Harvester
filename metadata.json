@@ -1,0 +1,5 @@
+{
+  "name": "Genre Harvester → Mureka Formatter",
+  "description": "An application that crawls the web for music genre information, normalizes it into a Mureka-style brief format, and allows for easy copy-pasting.",
+  "requestFramePermissions": []
+}
